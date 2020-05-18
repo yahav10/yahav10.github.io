@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "@xstyled/styled-components";
 import {
-    BrowserRouter as Router,
+    HashRouter
 } from "react-router-dom";
 import { HashLink as Link } from 'react-router-hash-link';
 
@@ -41,7 +41,7 @@ export const StyledMenu = styled.h4`
 const SimpleList = () => {
     return (
         <StyledMenu>
-            <Router>
+            <HashRouter basename={process.env.PUBLIC_URL}>
                 <ul>
                     <li>
                         <Link smooth to="/#home">Introduction</Link>
@@ -62,7 +62,7 @@ const SimpleList = () => {
                         <Link smooth to="/contact#contact">Contact</Link>
                     </li>
                 </ul>
-            </Router>
+            </HashRouter>
         </StyledMenu>
 )};
 

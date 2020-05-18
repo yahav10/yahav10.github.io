@@ -52,6 +52,10 @@ export const StyledTestimonials = styled.div`
     color: #333333;
     margin: 60px auto;
     
+    a {
+        color: inherit;
+    }
+    
     svg {
         height: 20px;
         position: relative;

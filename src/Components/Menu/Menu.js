@@ -10,6 +10,7 @@ export const StyledMenu = styled.h4`
     color: #333333;
     
     a {
+        color: inherit;
         text-decoration: none;
     }
     

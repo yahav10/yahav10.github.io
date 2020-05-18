@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yahav10/static/css/main.2238ff1c.chunk.css",
+    "main.js": "/yahav10/static/js/main.c3d334c2.chunk.js",
+    "main.js.map": "/yahav10/static/js/main.c3d334c2.chunk.js.map",
+    "runtime-main.js": "/yahav10/static/js/runtime-main.b76c0866.js",
+    "runtime-main.js.map": "/yahav10/static/js/runtime-main.b76c0866.js.map",
+    "static/js/2.de1e01c2.chunk.js": "/yahav10/static/js/2.de1e01c2.chunk.js",
+    "static/js/2.de1e01c2.chunk.js.map": "/yahav10/static/js/2.de1e01c2.chunk.js.map",
+    "index.html": "/yahav10/index.html",
+    "precache-manifest.4fdfa8fef86ab803ce869703abde76d4.js": "/yahav10/precache-manifest.4fdfa8fef86ab803ce869703abde76d4.js",
+    "service-worker.js": "/yahav10/service-worker.js",
+    "static/css/main.2238ff1c.chunk.css.map": "/yahav10/static/css/main.2238ff1c.chunk.css.map",
+    "static/js/2.de1e01c2.chunk.js.LICENSE.txt": "/yahav10/static/js/2.de1e01c2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/yahav10/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/TomImage.png": "/yahav10/static/media/TomImage.d2d11ed4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b76c0866.js",
+    "static/js/2.de1e01c2.chunk.js",
+    "static/css/main.2238ff1c.chunk.css",
+    "static/js/main.c3d334c2.chunk.js"
+  ]
+}

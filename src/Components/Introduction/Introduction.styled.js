@@ -1,19 +1,28 @@
 import styled from "@xstyled/styled-components";
+import myImage from '../../Media/Images/TomImage.png';
 
 export const StyledIntroductionWrapper = styled.div`
     width: 100%;
     height: 700px;
     background-color: white;
     display: flex;
-    flex-direction: column;
+    flex-wrap: nowrap;
+    flex-direction: row;
     border-bottom: 1px solid black;
 `;
 
 export const StyledIntroduction = styled.div`
     width: 45%;
-    display: block;
-    position: absolute;
     margin: 200px 50px;
+`;
+
+export const StyledImage = styled.div`
+    background-image: url(${myImage});
+    width: 25%;
+    height: 30%;
+    padding: 2px 2px;
+    margin: auto;
+    border-radius: 25% 10%;
 `;
 
 export const StyledHello = styled.h1`

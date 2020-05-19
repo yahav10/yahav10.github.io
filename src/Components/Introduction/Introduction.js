@@ -4,7 +4,8 @@ import {
     StyledIntroduction,
     StyledButtonCvDownload,
     StyledHello,
-    StyledOccupation
+    StyledOccupation,
+    StyledImage
 } from "./Introduction.styled";
 import {faDownload} from "@fortawesome/free-solid-svg-icons";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
@@ -21,6 +22,7 @@ const Introduction = () => {
                     <FontAwesomeIcon icon={faDownload}/>
                 </StyledButtonCvDownload>
             </StyledIntroduction>
+            <StyledImage/>
         </StyledIntroductionWrapper>
     )};
 

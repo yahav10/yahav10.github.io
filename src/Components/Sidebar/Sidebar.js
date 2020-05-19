@@ -6,7 +6,6 @@ import {faFacebook, faGithub, faLinkedin} from '@fortawesome/free-brands-svg-ico
 import {
     StyledSidebar,
     StyledEmail,
-    StyledImage,
     StyledMenu,
     StyledName,
     StyledTestimonials
@@ -15,7 +14,6 @@ import {
 const Sidebar = () => {
     return (
         <StyledSidebar>
-            <StyledImage/>
             <StyledName>Tom Yahav</StyledName>
             <StyledEmail>
                 <FontAwesomeIcon icon={faEnvelope}/>

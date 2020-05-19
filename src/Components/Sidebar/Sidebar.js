@@ -25,13 +25,13 @@ const Sidebar = () => {
                 <SimpleList/>
             </StyledMenu>
             <StyledTestimonials>
-                <a href="https://www.linkedin.com/in/tom-yahav" target="_blank">
+                <a href="https://www.linkedin.com/in/tom-yahav" rel="noopener noreferrer" target="_blank">
                     <FontAwesomeIcon icon={faLinkedin} size='lg'/>
                 </a>
-                <a href="https://www.facebook.com/tommyahav" target="_blank">
+                <a href="https://www.facebook.com/tommyahav" rel="noopener noreferrer" target="_blank">
                     <FontAwesomeIcon icon={faFacebook} size='lg'/>
                 </a>
-                <a href="https://github.com/yahav10" target="_blank">
+                <a href="https://github.com/yahav10" rel="noopener noreferrer" target="_blank">
                     <FontAwesomeIcon icon={faGithub} size='lg'/>
                 </a>
             </StyledTestimonials>

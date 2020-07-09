@@ -4,7 +4,7 @@ import nextLogo from '../../Media/Images/n9Logo.png';
 
 export const StyledExperienceWrapper = styled.div`
     width: 100%;
-    height: 1250px;
+    height: 1400px;
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -17,6 +17,7 @@ export const StyledExperienceHeadline = styled.h1`
     display: block;
     position: relative;
     padding-top: 15px;
+    padding-left: 14%;
 `;
 
 export const StyledExperienceTimelineWrapper = styled.div`
@@ -26,10 +27,10 @@ export const StyledExperienceTimelineWrapper = styled.div`
 `;
 
 export const StyledExperienceTimeline = styled.div`
-    width: 75%;
+    width: 100%;
     font-size: 14pt;
     display: block;
-    margin: 20px 0 0 25px;
+    padding-left: 13%;
 `;
 
 export const StyledLogos = styled.div`

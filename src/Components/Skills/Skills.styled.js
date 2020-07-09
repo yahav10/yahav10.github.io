@@ -2,6 +2,7 @@ import styled from "@xstyled/styled-components";
 
 export const StyledSkillsWrapper = styled.div`
     width: 100%;
+    padding-left: 10%;
     height: 700px;
     background-color: white;
     display: flex;
@@ -22,7 +23,7 @@ export const StyledSkills = styled.div`
     font-size: 14pt;
     width: 80%;
     text-align: left;
-    padding-left: 65px;
+    margin-left: 1%;
     line-height: 1.5;
 `;
 

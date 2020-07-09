@@ -3,13 +3,14 @@ import styled from "@xstyled/styled-components";
 export const StyledContactWrapper = styled.div`
     width: 100%;
     height: 800px;
+    padding-left: 10%;
     background-color: white;
     display: flex;
     flex-direction: column;
 `;
 
 export const StyledContactHeadline = styled.h1`
-    width: 34%;
+    width: 44%;
     font-size: 32pt;
     display: block;
     position: relative;

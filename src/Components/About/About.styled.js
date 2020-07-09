@@ -2,6 +2,7 @@ import styled from "@xstyled/styled-components";
 
 export const StyledAboutWrapper = styled.div`
     width: 100%;
+    padding-left: 10%;
     height: 700px;
     background-color: white;
     display: flex;
@@ -20,8 +21,8 @@ export const StyledAboutHeadline = styled.h1`
 export const StyledAbout = styled.div`
     color: #000;
     font-size: 14pt;
-    width: 80%;
     text-align: left;
-    margin-left: 8%;
+    margin-left: 6%;
     line-height: 2.5;
+    width: 100%;
 `;

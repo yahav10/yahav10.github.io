@@ -17,12 +17,12 @@ const About = () => {
             </Fade>
             <Fade right>
                 <StyledAbout>
-                    My name's Tom. I'm a web designer and developer based in Israel.
-                    I have 4 years in the Cyber Security industry and high-level proficiency in the following programs: Javascript and Python.<br/>
-                    I've started the bottom of the chain, first as a NOC Engineer, Support, QA, Automation and now as Front End developer.<br/>
+                    My name's Tom Yahav and I'm a web designer and developer based in Israel.<br/>
+                    I have 4 years experience in the Cyber Security industry and high-level proficiency in the following programs: <b>Javascript</b> and <b>Python.</b><br/>
+                    Currently, working in <b>CYREN</b> company as a Front End developer during the last year.<br/>
                     I am familiar and experienced with Web Application Architecture and worked with a number of successful development teams both on
                     development and QA aspects.
-                    Outside of work I have a beautiful wife and 2 wonderful kids, love to spend my time with my family, friends and playing ball.
+                    Outside of work I have a beautiful wife and 2 wonderful kids, love to spend my time with my family, friends and sports.
                 </StyledAbout>
             </Fade>
         </StyledAboutWrapper>

@@ -7,10 +7,11 @@ export const StyledEducationWrapper = styled.div`
     display: flex;
     flex-direction: column;
     border-bottom: 1px solid black;
+    padding-left: 10%;
 `;
 
 export const StyledEducationHeadline = styled.h1`
-    width: 34%;
+    width: 40%;
     font-size: 32pt;
     display: block;
     position: relative;
@@ -18,13 +19,11 @@ export const StyledEducationHeadline = styled.h1`
 `;
 
 export const StyledEducationDegreeHeadline = styled.h4`
-    width: 92%;
     text-align: left;
-    margin-left: 8%;
+    margin-left: 7%;
 `;
 
 export const StyledEducationDegreeDescription = styled.div`
-    width: 100%;
     text-align: left;
-    margin-left: 8%;
+    margin-left: 7%;
 `;
